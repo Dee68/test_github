@@ -1,3 +1,3 @@
 # test_github
 
-## Coding 
+## Coding the project
